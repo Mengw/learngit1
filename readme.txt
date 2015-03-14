@@ -5,4 +5,5 @@ Git tracks chages of files .
 a
 b
 Creating a new branch is quick and  simple.
+c
  
